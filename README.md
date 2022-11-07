@@ -1,2 +1,2 @@
 # ArcherPro
-Shooter Game in Unity
+Shooter Game made in Unity.
